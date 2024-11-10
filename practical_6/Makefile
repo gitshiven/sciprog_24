@@ -11,8 +11,7 @@ matmult.o: matmult.c matmult.h
 	$(CC) $(CFLAGS) -c matmult.c
 
 matrix.o: matrix.c matmult.h
-	$(CC) $(CFLAGS) -c matrix.c
-
+	$(CC) $(CFLAGS) -c matrix.
 clean:
-	rm -f *.o $(TARGET)
+	rm -f *.o $(TARGET) 
 

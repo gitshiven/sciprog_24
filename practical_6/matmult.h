@@ -5,6 +5,6 @@
 #define P 3
 #define Q 4
 
-void multiply(double A[N][P], double B[P][Q], double C[N][Q]);
+void mult(double A[N][P], double B[P][Q], double C[N][Q]);
 
 #endif

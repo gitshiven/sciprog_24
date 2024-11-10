@@ -29,7 +29,7 @@ int main()
         }
     }
 
-multiply(A, B, C);
+mult(A, B, C);
 
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < P; j++) {
