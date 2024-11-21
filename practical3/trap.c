@@ -19,12 +19,12 @@ int main(void) {
 
     // Compute the approximate integral using the trapezoidal rule
     double integral_approx = (b - a) * sum / (2 * N);
-    double exact_result = log(2);  // Exact value of the integral
+    double exactResult = log(2);  // Exact value of the integral
 
     // Print the results
     printf("Approximate value of the integral: %lf\n", integral_approx);
-    printf("Exact result: %lf\n", exact_result);
-    printf("Difference: %lf\n", fabs(integral_approx - exact_result));
+    printf("Exact result: %lf\n", exactResult);
+    printf("Difference: %lf\n", fabs(integral_approx - exactResult));
 
     return 0;
 }
