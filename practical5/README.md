@@ -4,7 +4,7 @@ This program calculates the Fibonacci series up to a given number of terms. The 
 
 ## Files
 
-- `main.c`: Contains the implementation of the program.
+- `fibonacci.c`, `Inverse_Hyperbolic_Tang.c ` : Contains the implementation of the program.
 
 ## How to Compile and Run
 
