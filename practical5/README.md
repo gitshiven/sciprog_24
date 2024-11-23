@@ -9,10 +9,11 @@ This program calculates the Fibonacci series up to a given number of terms. The 
 ## How to Compile and Run
 
 1. **Ensure you have a C compiler** installed, such as GCC.
-2. **Open a terminal** in the directory containing `main.c`.
+2. **Open a terminal** in the directory containing `fibonacci.c`,`Inverse_Hyperbolic_Tang.c `
 3. **Compile the code** using the following command:
    ```sh
-   gcc -o fibonacci main.c
+   gcc -o fibonacci fibonacci.c
+   gcc -o Inverse_Hyperbolic_Tang.c
 
 ## Output
 Enter the value of n: 10

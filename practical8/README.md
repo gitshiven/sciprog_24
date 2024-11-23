@@ -4,9 +4,14 @@ This program calculates the Greatest Common Divisor (GCD) of two positive intege
 
 ## Files
 
-- `main.c`: Contains the implementation of the GCD calculation program.
+- `gdc.c`: Contains the implementation of the GCD calculation program.
 
 ## How to Compile and Run
+1. **Ensure you have a C compiler** installed, such as GCC.
+2. **Open a terminal** in the directory containing `gdc.c`
+3. **Compile the code** using the following command:
+   ```sh
+   gcc -o GDC gdc.c
 
 ### Prerequisites
 

@@ -4,15 +4,15 @@ This program calculates the values of the tangent function for angles from 0 to 
 
 ## Files
 
-- `main.c`: Contains the implementation of the program.
+- `trapezoid.c`: Contains the implementation of the program.
 
 ## How to Compile and Run
 
 1. **Ensure you have a C compiler** installed, such as GCC.
-2. **Open a terminal** in the directory containing `main.c`.
+2. **Open a terminal** in the directory containing `trapezoid.c`.
 3. **Compile the code** using the following command:
    ```sh
-   gcc -o tan_integration main.c -lm
+   gcc -o tan_integration trapezoid.c -lm
 
 ## Output
 

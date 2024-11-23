@@ -20,7 +20,7 @@ gcc -o magic_square_checker main.c -lm
 ## Running the program
 ./magic_square_checker
 
-Enter file name: matrix.txt
+# Enter file name: matrix.txt
 
 Enter file name: matrix.txt
 M = 15
