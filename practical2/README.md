@@ -20,7 +20,7 @@ This repository contains two C programs:
 
 Output:
 Harmonic Series:
-First Sum = 7.485470, Second Sum = 7.485470, Difference = 0.000000
+First Sum = 7.485478, Second Sum = 7.485472, Difference = 0.000006
 
 Binary Conversion:
 The number of digits = 25, intNumber = 33554431, floatNumber = 33554432.0, Binary = 11111111111111111111111111
