@@ -14,7 +14,8 @@ This repository contains two C programs:
 ## How to Run
 1. Compile the program:  
    ```bash
-   gcc -o number_operations program.c -lm
+   gcc -o sum_ sum.c -lm
+   gcc -o conversion_ conversion.c -lm
 
 
 Output:
